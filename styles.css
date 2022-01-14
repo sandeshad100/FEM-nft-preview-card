@@ -241,8 +241,9 @@ margin-top:-5px
     width: 15%;
 }
 
-.attribution{
+.attribution,a{
     font-size: 13px;
+   margin-top:5%;
 }
 
 /* Mobile */
